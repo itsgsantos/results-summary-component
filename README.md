@@ -6,7 +6,7 @@
 
 **Results Summary Component** is a clean, data-centric interface challenge from Frontend Mentor. This project focuses on implementing a professional-grade dashboard card that adapts seamlessly from a stacked mobile view to a balanced dual-column desktop layout, utilizing modern CSS techniques for gradients and shadows.
 
-🔗 **Live Demo:** [results-summary-its.vercel.app](https://results-summary-its.vercel.app/)
+🔗 **Live Demo:** [results-its.vercel.app](https://results-its.vercel.app/)
 
 ---
 
